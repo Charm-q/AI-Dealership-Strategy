@@ -21,6 +21,6 @@ The business objective is to find out what the key drivers/factors for used car 
 After considering the business understanding, we want to get familiar with our data.
 
 
-<img src="images/NAs"/>
+<img src="images/NAs.png"/>
 
 
